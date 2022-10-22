@@ -12,7 +12,7 @@ Soy estudiante de ingeniería en sistemas y telecomunicaciones, manejo diferente
 
 ⚡Pronouns She/Her
 
-:black_nib: Inglés B1 
+:black_nib: Inglés B2
 
 💬 Aprendiendo portugues
 
