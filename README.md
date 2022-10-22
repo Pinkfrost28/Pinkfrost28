@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Laura 👋
 
 ![This is an image](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg)
+
+:earth_americas: Find me around the web
+
+https://www.facebook.com/Mac2022
+
+:penguin: About me!
 <!--
 **Pinkfrost28/Pinkfrost28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
