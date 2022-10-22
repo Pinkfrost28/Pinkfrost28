@@ -31,6 +31,8 @@ Soy estudiante de ingeniería en sistemas y telecomunicaciones, manejo diferente
 ![This is an image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![This is an image]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![This is an image]( hola.png)
+
 
 
 
