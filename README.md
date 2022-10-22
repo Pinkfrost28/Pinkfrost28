@@ -1,6 +1,6 @@
 ### Hi there, I'm Laura 👋
 
-![This is an image](hola.png)
+![This is an image](hola.png](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg)
 
 ## :earth_americas: Find me around the web
 
