@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![This is an image](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg)
 <!--
 **Pinkfrost28/Pinkfrost28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
