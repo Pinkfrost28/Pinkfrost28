@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/laura-machetá/](https://www.linkedin.com/in/laura-machetá/)
 
-- :black_nib: Inglés B2
+- :black_nib: English B2
   
 - ⚡ Pronouns She/Her
 
